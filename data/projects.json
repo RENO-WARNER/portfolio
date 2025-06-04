@@ -5,15 +5,15 @@
 	  "short_description": "Led the development of a cost-effective CubeSat program, achieving one of the quickest turnaround times in the industry while adhering to budget constraints.",
 	  "images": [
 		{
-		  "source": "/projects/cubesat/cad.png",
+		  "source": "./projects/cubesat/cad.png",
 		  "caption": "Custom-designed Printed Circuit Boards (PCBs) for the CubeSat's avionics and power systems."
 		},
 		{
-		  "source": "/projects/cubesat/thermal.testing.jpg",
+		  "source": "./projects/cubesat/thermal.testing.jpg",
 		  "caption": "Final assembly of the CubeSat prototype, showcasing the integrated electronics and structural components."
 		},
 		{
-		  "source": "/projects/cubesat/battery.fea.png",
+		  "source": "./projects/cubesat/battery.fea.png",
 		  "caption": "Detailed CAD model of the CubeSat, used for structural analysis and component placement."
 		}
 	  ],
@@ -25,15 +25,15 @@
 	  "short_description": "Designed and manufactured a lightweight stainless steel camping stove, leveraging CNC technology to streamline its manufacturing process. Innovatively controlled gas flow using a laser-cut rubber gasket as a valve.",
 	  "images": [
 		{
-		  "source": "/projects/stove/stove.jpg",
+		  "source": "./projects/stove/stove.jpg",
 		  "caption": "CAD design of the camping stove, highlighting key components and assembly."
 		},
 		{
-		  "source": "/projects/stove/cad.jpg",
+		  "source": "./projects/stove/cad.jpg",
 		  "caption": "The stainless steel camping stove in operation, demonstrating efficient gas flow and combustion."
 		},
 		{
-		  "source": "/projects/stove/assembly.jpg",
+		  "source": "./projects/stove/assembly.jpg",
 		  "caption": "The stainless steel camping stove in operation, demonstrating efficient gas flow and combustion."
 		}
 	  ],
@@ -45,19 +45,19 @@
 	  "short_description": "Led a team to develop a marine propulsion assembly, including designing an electric motor. Performed optimization and Finite Element Analysis to ensure passenger safety. Manufactured and assembled the final system.",
 	  "images": [
 		{
-		  "source": "/projects/boat/boat.jpg",
+		  "source": "./projects/boat/boat.jpg",
 		  "caption": "CAD render of the marine propulsion assembly, showing the custom electric motor and propeller design."
 		},
 		{
-		  "source": "/projects/boat/drawing.jpg",
+		  "source": "./projects/boat/drawing.jpg",
 		  "caption": ""
 		},
 		{
-			"source": "/projects/boat/laminations.jpg",
+			"source": "./projects/boat/laminations.jpg",
 			"caption": "Laminations of motor"
 		},
 		{
-			"source": "/projects/boat/motor.jpg",
+			"source": "./projects/boat/motor.jpg",
 			"caption": "Laminations of motor"
 		}
 	  ],
@@ -69,11 +69,11 @@
 	  "short_description": "Explored advanced control theory applications, including PID tuning and state-space control, applied to Unmanned Aerial Vehicles (UAVs).",
 	  "images": [
 		{
-		  "source": "/projects/modern_controls_uav.jpg",
+		  "source": "./projects/modern_controls_uav.jpg",
 		  "caption": "Simulation environment for UAV flight control, demonstrating trajectory tracking."
 		},
 		{
-		  "source": "/projects/uav_hardware.jpg",
+		  "source": "./projects/uav_hardware.jpg",
 		  "caption": "Prototype UAV frame used for sensor integration and control algorithm testing."
 		}
 	  ],
@@ -85,11 +85,11 @@
 	  "short_description": "Designed and implemented a simplified autopilot system for small aircraft, focusing on altitude and heading hold functionalities.",
 	  "images": [
 		{
-		  "source": "/projects/autopilot_sim.jpg",
+		  "source": "./projects/autopilot_sim.jpg",
 		  "caption": "Graphical representation of autopilot flight path control in a simulation environment."
 		},
 		{
-		  "source": "/projects/autopilot_schematic.jpg",
+		  "source": "./projects/autopilot_schematic.jpg",
 		  "caption": "Block diagram of the autopilot control logic, detailing sensor inputs and actuator outputs."
 		}
 	  ],
@@ -102,11 +102,11 @@
 		"long_description": "",
 		"images": [
 			{
-				"source": "/projects/mold/mold.jpg",
+				"source": "./projects/mold/mold.jpg",
 				"caption": ""
 			},
 			{
-				"source": "/projects/mold/result.jpg",
+				"source": "./projects/mold/result.jpg",
 				"caption": ""
 			}
 		]
@@ -117,11 +117,11 @@
 	  "short_description": "Gained practical experience in generating CNC toolpaths and observed various manufacturing processes in an industrial setting.",
 	  "images": [
 		{
-		  "source": "/projects/mech1100_toolpath.jpg",
+		  "source": "./projects/mech1100_toolpath.jpg",
 		  "caption": "CNC toolpath visualization for a complex machined part."
 		},
 		{
-		  "source": "/projects/manufacturing_observation.jpg",
+		  "source": "./projects/manufacturing_observation.jpg",
 		  "caption": "Observation of a manufacturing process, highlighting safety protocols and operational workflow."
 		}
 	  ],
@@ -133,11 +133,11 @@
 	  "short_description": "Conducted Finite Element Analysis (FEA) on various mechanical structures to predict behavior under stress, strain, and thermal loads.",
 	  "images": [
 		{
-		  "source": "/projects/fea_beam_analysis.jpg",
+		  "source": "./projects/fea_beam_analysis.jpg",
 		  "caption": "FEA stress analysis result for a cantilever beam under bending load."
 		},
 		{
-		  "source": "/projects/fea_thermal_expansion.jpg",
+		  "source": "./projects/fea_thermal_expansion.jpg",
 		  "caption": "FEA simulation of thermal expansion in a constrained assembly."
 		}
 	  ],

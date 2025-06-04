@@ -8,7 +8,7 @@ export default function Hero() {
     <section className="flex flex-col md:flex-row md:min-h-screen max-w-4xl mx-auto justify-center items-center gap-4 p-6 pt-22">
       <div className="md:w-1/2 max-w-md aspect-square overflow-hidden border-4 border-black rounded-xl justify-center shadow-xl  bg-gray-700">
         <Image
-          src="/profile.jpg"
+          src="./profile.jpg"
           alt="Reno Warner Profile"
           width={1000}
           height={1000}

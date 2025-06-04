@@ -23,7 +23,7 @@ export default function Projects() {
   }
 
   return (
-    <section id="projects" className="bg-primary-bg">
+    <section id="projects" className="bg-primary-bg mb-22">
       <div className="container mx-auto px-6">
         <h2 className="text-4xl md:text-5xl font-bold text-center lg:text-left">FEATURED PROJECTS</h2>
         <div className="flex flex-wrap justify-evenly items-stretch mt-4">
