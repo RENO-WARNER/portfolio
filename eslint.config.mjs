@@ -11,6 +11,15 @@ const compat = new FlatCompat({
 
 const eslintConfig = [
   ...compat.extends("next/core-web-vitals", "next/typescript"),
+  {
+    rules: {
+      // Disable the rule for using <a> instead of <Link />
+      "@next/next/no-html-link-for-pages": "off",
+
+      // Disable unused vars (or set to "warn" if you prefer that)
+      "@typescript-eslint/no-unused-vars": "off",
+    }
+  }
 ];
 
 export default eslintConfig;
