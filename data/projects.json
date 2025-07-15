@@ -5,19 +5,19 @@
 	  "short_description": "Led the development of a cost-effective CubeSat program, achieving one of the quickest turnaround times in the industry while adhering to budget constraints.",
 	  "images": [
 		{
-		  "source": "./projects/cubesat/cad.png",
-		  "caption": "Custom-designed Printed Circuit Boards (PCBs) for the CubeSat's avionics and power systems."
-		},
-		{
 		  "source": "./projects/cubesat/thermal.testing.jpg",
 		  "caption": "Final assembly of the CubeSat prototype, showcasing the integrated electronics and structural components."
 		},
 		{
+		  "source": "./projects/cubesat/cad.png",
+		  "caption": "CAD model of the cubesat."
+		},
+		{
 		  "source": "./projects/cubesat/battery.fea.png",
-		  "caption": "Detailed CAD model of the CubeSat, used for structural analysis and component placement."
+		  "caption": "FEA thermal analysis of the battery packs."
 		}
 	  ],
-	  "long_description": "As Program Manager for the Harbinger CubeSat, I oversaw all aspects of its development, from conceptualization to prototype assembly. My responsibilities included leading cross-functional teams (mechanical, electrical, software), managing project timelines and budgets, and mitigating technical risks. I personally contributed to the design of critical PCBs for power distribution and communication. The embedded flight software was developed primarily in Rust, focusing on reliability and resource efficiency, crucial for space applications. This project significantly enhanced my skills in systems engineering, project management, and embedded software development."
+	  "long_description": "As Program Manager / Chief Engineer for the Harbinger CubeSat, I oversaw all aspects of its development, from conceptualization to prototype assembly. My responsibilities included leading cross-functional teams (mechanical, electrical, software), managing project timelines and budgets, and mitigating technical risks. I personally contributed to the design of critical PCBs for power distribution and communication. The embedded flight software was developed primarily in Rust, focusing on reliability and resource efficiency, crucial for space applications. This project significantly enhanced my skills in systems engineering, project management, and embedded software development."
 	},
 	{
 	  "name": "Stainless Steel Bunsen Burner",
@@ -26,15 +26,15 @@
 	  "images": [
 		{
 		  "source": "./projects/stove/stove.jpg",
-		  "caption": "CAD design of the camping stove, highlighting key components and assembly."
+		  "caption": "Final assembly of the stainless steel after polishing."
 		},
 		{
 		  "source": "./projects/stove/cad.jpg",
-		  "caption": "The stainless steel camping stove in operation, demonstrating efficient gas flow and combustion."
+		  "caption": "The CAD model of the full assembly of the stove."
 		},
 		{
 		  "source": "./projects/stove/assembly.jpg",
-		  "caption": "The stainless steel camping stove in operation, demonstrating efficient gas flow and combustion."
+		  "caption": "Detailed drawing of the stove and how the innovative valve works."
 		}
 	  ],
 	  "long_description": "This project involved the full lifecycle of product development, from initial concept to a functional prototype. Utilizing Fusion 360, I designed the stove to be lightweight and compact, optimizing for portability. The manufacturing process incorporated CNC laser cutting for precision and efficiency, ensuring minimal material waste. A novel aspect of the design was the gas flow control mechanism, which utilized a custom laser-cut rubber gasket as a valve, providing precise flame adjustment without complex mechanical parts. This project honed my skills in DFM (Design for Manufacturability), material selection, and rapid prototyping."
@@ -46,19 +46,23 @@
 	  "images": [
 		{
 		  "source": "./projects/boat/boat.jpg",
-		  "caption": "CAD render of the marine propulsion assembly, showing the custom electric motor and propeller design."
+		  "caption": "Full assembly of the final prototype right before the race."
+		},
+		{
+			"source": "./projects/boat/control.jpg",
+			"caption": "Control box that I created to prevent electronics from water exposure."
 		},
 		{
 		  "source": "./projects/boat/drawing.jpg",
-		  "caption": ""
+		  "caption": "Section view drawing of the motor propulsion unit."
 		},
 		{
 			"source": "./projects/boat/laminations.jpg",
-			"caption": "Laminations of motor"
+			"caption": "Laminations of motor that were cut using a laser."
 		},
 		{
 			"source": "./projects/boat/motor.jpg",
-			"caption": "Laminations of motor"
+			"caption": "Close up the full assembly of the motor propulsion unit."
 		}
 	  ],
 	  "long_description": "This team project focused on designing and building an efficient and safe marine propulsion system. My role involved leading the mechanical design phase, including the custom electric motor housing and the shaft coupling to the propeller. I extensively utilized ANSYS for Finite Element Analysis to predict structural integrity under various operating conditions and optimize material usage for weight reduction without compromising safety. The project culminated in the successful manufacturing and assembly of the drivetrain, demonstrating practical application of advanced engineering principles and effective team collaboration."
